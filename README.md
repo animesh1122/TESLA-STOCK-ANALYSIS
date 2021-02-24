@@ -2,6 +2,8 @@
 
       Using TESLA STOCK DATA build analysis Dashboard.
       Here i used three monts data July-20,Auguest-20 and September-20.
+# DATA
+      Data extract using GOOGLEFINANCE function in Excel.
 
 # TASKS
     1.Daily Closed Price.
